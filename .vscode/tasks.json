@@ -1,0 +1,6 @@
+{
+    "version": "2.0.0",
+    "command": "Chrome",
+    "windows": {"command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"},
+    "args": ["${file}"]
+} // this is a command that will open the file in chrome Ctrl+Shift+B
